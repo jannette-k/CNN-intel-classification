@@ -6,7 +6,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-83.75%25-brightgreen?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-Intel%20Image%20Classification-0077B5?style=for-the-badge)
 
-A custom Convolutional Neural Network (CNN) built from scratch using TensorFlow and Keras, trained on the Intel Image Classification dataset. This project demonstrates a complete deep learning pipeline — from dataset preparation and intensive preprocessing to model training, evaluation, and result visualization.
+A custom Convolutional Neural Network (CNN) built from scratch using TensorFlow and Keras, trained on the Intel Image Classification dataset. This project demonstrates a complete deep learning pipeline from dataset preparation and intensive preprocessing to model training, evaluation, and result visualization.
 
 ---
 
@@ -184,7 +184,3 @@ print(f"Final Validation Accuracy: {acc*100:.2f}%")
 - Plotting training curves to evaluate model performance
 
 ---
-
-## 👤 Author
-
-Made with ❤️ using TensorFlow and Google Colab
